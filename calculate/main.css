@@ -1,0 +1,42 @@
+body {
+    font-size: 1.6rem;
+    background-image: linear-gradient(to left, rgba(0, 128, 0, 0.623), rgba(0, 0, 255, 0.475));
+}
+
+.form {
+    text-align: center;
+    margin-top: 10%;
+}
+
+input {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    height: 2rem;
+    border-radius: 2rem;
+    border-color: rgba(0, 128, 0, 0.615);
+    width: 20%;
+}
+
+select {
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    height: 2rem;
+    border-radius: 1rem;
+    border-color: rgba(0, 128, 0, 0.615);
+}
+
+.submit {
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    height: 2rem;
+    border-radius: 2rem;
+    border-color: rgba(0, 128, 0, 0.615);
+    width: 20%;
+}
+
+input:hover {
+    color: blue;
+}
